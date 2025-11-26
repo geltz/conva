@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+diffusers
+safetensors
+accelerate
+toml
+prodigyopt
+sentencepiece
+bitsandbytes
+Pillow
+PyQt6
